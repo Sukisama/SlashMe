@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Demo\Frute\Scripts\Nomal\StartUIControl.cs">
+    <Files>
+      <File FileName="Assets\Demo\Frute\Scripts\Nomal\GamePanelControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Demo\Frute\Scripts\Nomal\StartUIControl.cs" Line="44" Column="45" />
+      <File FileName="Assets\Demo\Frute\Scripts\Nomal\BoderTrigger.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Demo\Frute\Scripts\Nomal\GameUIControl.cs" Line="17" Column="4" NotebookId="1" />
+      <File FileName="Assets\Demo\Frute\Scripts\Nomal\GameController.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Demo\Frute\Scripts\Nomal\GamePanelControlOne.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Demo\Frute\Scripts\Nomal\GameUIControlOne.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Demo\Frute\Scripts\Nomal\Fruit.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Demo\Frute\Scripts\Nomal\LifeContent.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
